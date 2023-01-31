@@ -1,4 +1,5 @@
 # Dummy_Robot_Supper_Takeout_Delivery
+## About
 Coursework final indivitual project of Game Design and Development. The game Dummy Robot- Supper Take-Out Delivery is an integrated memory *-objects/items memorizing-* and puzzle *-maze solving-* game, packaged with a theme of take-out delivery in a futuristic neo cyberpunk city background. The game was developed using Unity with the use of tools and features such as 2D animation, 2D sprites, Universal Render Pipeline, Unity scripting API, etc. The project was coded in C#.
 
 ## Details
